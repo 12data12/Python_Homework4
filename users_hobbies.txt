@@ -1,0 +1,7 @@
+{
+    "Michael","binge watching " 
+    "Ivan","reading detective novels" 
+    "Eva","cosplay" 
+    "Daria","sqash" 
+    "Natasha","ping-pong"
+}
